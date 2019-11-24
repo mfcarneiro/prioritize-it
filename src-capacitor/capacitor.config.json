@@ -1,0 +1,7 @@
+{
+  "appId": "br.com.prioritizeit",
+  "appName": "Prioritize It",
+  "bundledWebRuntime": false,
+  "npmClient": "yarn",
+  "webDir": "www"
+}
